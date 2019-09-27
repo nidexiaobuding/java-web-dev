@@ -3,7 +3,7 @@ quick起步模块
 1、简单的登陆
 ![Image text](https://github.com/nidexiaobuding/java-web-dev/blob/master/11.jpg)
 LoginServlet拦截到"/login.do"请求，判断用户名和密码是否匹配，是就将用户名记入session，跳转到index.jsp，否则继续跳回登录页 
-![Image text](https://github.com/nidexiaobuding/java-web-dev/blob/master/11.jpg)
+![Image text](https://github.com/nidexiaobuding/java-web-dev/blob/master/12.jpg)
 
 
 
