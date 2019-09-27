@@ -17,7 +17,7 @@ public class LoginServlet extends HttpServlet {
         String password = req.getParameter("password");
         if("admin".equals(username) && "111".equals(password)){
             HttpSession session = req.getSession();
-            session.setAttribute("username",username);
+            session.setAttribute("use0rname",username);
             resp.sendRedirect("index");
 
         }else{

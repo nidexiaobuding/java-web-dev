@@ -166,9 +166,7 @@
 
 <%
 }else {
-%>
-<h3><a href="${pageContext.request.contextPath}/">去登陆</a> </h3>
-<%
+
   }
 %>
 
@@ -198,7 +196,7 @@
     </div>
   </div>
   <div class="right">
-    <p></p>
+    <img src="images/1.jpg" alt="">
   </div>
 </div>
 <!-- 脚注区 -->
